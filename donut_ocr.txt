@@ -1,0 +1,19 @@
+Document Understanding Transformer
+https://github.com/clovaai/donut
+
+synthdog
+Official Implementation of SynthTIGER (Synthetic Text Image Generator), ICDAR 2021 
+https://github.com/clovaai/synthtiger
+
+ImagesDifferences
+https://github.com/McLab-AI/ImagesDifferences
+
+Fine-Tuning OCR-Free Donut Model for Invoice Reco…
+https://towardsdatascience.com/fine-tuning-ocr-free-donut-model-for-invoice-recognition-46e22dc5cff1
+
+A Practical Guide To Extract Text From Images
+https://betterprogramming.pub/a-practical-guide-to-extract-text-from-images-ocr-in-python-d8c9c30ae74b
+
+How to Perform Speech-to-Text and Translate Any S…
+https://towardsdatascience.com/how-to-perform-speech-to-text-and-translate-any-speech-to-english-with-openais-whisper-50e3a366cbca
+

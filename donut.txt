@@ -1,8 +1,0 @@
-Document Understanding Transformer
-https://github.com/clovaai/donut
-
-synthdog
-Official Implementation of SynthTIGER (Synthetic Text Image Generator), ICDAR 2021 
-https://github.com/clovaai/synthtiger
-
-
