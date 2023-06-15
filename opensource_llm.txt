@@ -7,5 +7,6 @@ https://www.kdnuggets.com/2023/06/falcon-llm-new-king-llms.html
 Getting Started with ReactPy by Abid Ali Awan
 https://www.kdnuggets.com/2023/06/getting-started-reactpy.html
 
-
+8 Open-Source Alternative to ChatGPT and Bard
+https://www.kdnuggets.com/2023/04/8-opensource-alternative-chatgpt-bard.html
 
